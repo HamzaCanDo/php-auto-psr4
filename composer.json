@@ -1,0 +1,10 @@
+{
+    "name": "lenovo/www",
+    "version": "1.0.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
